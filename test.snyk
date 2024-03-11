@@ -1,0 +1,4 @@
+exclude:
+    global:
+        # Exclude files with a specific ending in any directory. For example, - “*.spec.js”
+        - "*.spec.ts"
